@@ -21,5 +21,10 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("Nieuwe build pls");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Nog een nieuwe build plox");
+        }
     }
 }
