@@ -15,7 +15,7 @@ namespace WindowsFormsApplication1.Tests
         [TestMethod()]
         public void test1Test()
         {
-            Assert.IsFalse(ac.test1(2));
+            Assert.IsFalse(ac.test1(1));
             Assert.IsTrue(ac.test1(1));
         }
 
